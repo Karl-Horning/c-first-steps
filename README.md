@@ -14,8 +14,7 @@
 
 ## 🤓 Introduction
 
-A small collection of beginner C programs I wrote around 2016 as part of my early programming journey.  
-These were created while working through [CS50 on edX](https://cs50.harvard.edu/) and are mostly untouched since then. The code is simple, a bit rough, and mostly here for nostalgia and archival purposes.
+A small collection of beginner C programs I wrote around 2016 as part of my early programming journey. These were created while working through [CS50 on edX](https://cs50.harvard.edu/) and are mostly untouched since then. The code is simple, albeit rough, and is mostly included here for nostalgia and archival purposes.
 
 ---
 
@@ -31,8 +30,8 @@ src/
 ├── mario/
 │   └── mario.c         # A basic pyramid visualisation with input handling
 ├── scores/
-│   ├── scores.c        # Calculates average of three hardcoded scores
-│   └── scores1.c       # Uses an array and a function to calculate average
+│   ├── scores.c        # Calculates the average of three hardcoded scores
+│   └── scores1.c       # Uses an array and a function to calculate the average
 
 ```
 
