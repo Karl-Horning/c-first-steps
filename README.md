@@ -1,28 +1,28 @@
 
-# 🐣 C First Steps
+# C First Steps
 
-## 📖 Table of Contents
+## Table of Contents
 
-- [🐣 C First Steps](#-c-first-steps)
-  - [📖 Table of Contents](#-table-of-contents)
-  - [🤓 Overview](#-overview)
-  - [📦 Installation](#-installation)
-  - [🚀 Scripts / Usage](#-scripts--usage)
-  - [📁 Project Structure](#-project-structure)
-  - [🧠 Notes](#-notes)
-  - [🕰️ Why This Exists](#️-why-this-exists)
-  - [📄 Licence](#-licence)
-  - [👤 Author](#-author)
+- [C First Steps](#c-first-steps)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Installation](#installation)
+  - [Scripts / Usage](#scripts--usage)
+  - [Project Structure](#project-structure)
+  - [Notes](#notes)
+  - [Why This Exists](#why-this-exists)
+  - [Licence](#licence)
+  - [Author](#author)
 
 ---
 
-## 🤓 Overview
+## Overview
 
 A small collection of beginner C programs I wrote around 2016 during my early steps into programming. These were created while working through [CS50 on edX](https://cs50.harvard.edu/) and are largely unmodified since then. The code is simple and a bit rough, but I've kept it here for nostalgia and archival purposes.
 
 ---
 
-## 📦 Installation
+## Installation
 
 No setup is required — just clone the repo:
 
@@ -35,7 +35,7 @@ You can compile any file using a C compiler like `gcc` or `clang`.
 
 ---
 
-## 🚀 Scripts / Usage
+## Scripts / Usage
 
 Here are example commands for compiling and running the programs:
 
@@ -49,7 +49,7 @@ If you're using `clang`, just replace `gcc` with `clang`.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -66,7 +66,7 @@ src/
 
 ---
 
-## 🧠 Notes
+## Notes
 
 - These were my first attempts at programming in C.
 - They use only standard libraries (for example, `stdio.h`).
@@ -75,18 +75,18 @@ src/
 
 ---
 
-## 🕰️ Why This Exists
+## Why This Exists
 
 I never went much further with C, but I'm keeping these files here as a small time capsule of my learning journey. They're not meant to be perfect or idiomatic — just a record of where I started.
 
 ---
 
-## 📄 Licence
+## Licence
 
 None. Feel free to use or remix anything here for your own learning.
 
 ---
 
-## 👤 Author
+## Author
 
 Made with ❤️ by [Karl Horning](https://github.com/Karl-Horning)
