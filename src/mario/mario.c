@@ -54,10 +54,8 @@ void createPyramid(int pyramidHeight) {
     }
 }
 
-int main() {
-    // Create a variable to store the number we get from the user
-    int maxHeight = 8;
-    int pyramidHeight;
+int main(void) {
+    int pyramidHeight = 0;
 
     while (pyramidHeight <= 0 || pyramidHeight > 8)
     {
