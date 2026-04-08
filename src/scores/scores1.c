@@ -12,7 +12,8 @@ int main(void)
     scores[2] = 33;
     
     printf("Average: %f\n", average(scores));
-    printf("Done!!!");
+    printf("Done!!!\n");
+    return 0;
 }
 
 float average(int array[])

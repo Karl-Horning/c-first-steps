@@ -36,6 +36,13 @@
 *.x86_64
 *.hex
 
+# Compiled output (extensionless Unix binaries)
+src/buggy/buggy0
+src/hello/hello
+src/mario/mario
+src/scores/scores
+src/scores/scores1
+
 # Debug files
 *.dSYM/
 *.su
