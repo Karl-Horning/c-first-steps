@@ -38,4 +38,4 @@ src/
 
 ## License
 
-None. Use or remix freely.
+MIT © 2016 [Karl Horning](https://github.com/Karl-Horning/)
