@@ -38,4 +38,4 @@ src/
 
 ## License
 
-MIT © 2016 [Karl Horning](https://github.com/Karl-Horning/)
+Released under the [MIT License](./LICENSE) by [Karl Horning](https://github.com/Karl-Horning).
